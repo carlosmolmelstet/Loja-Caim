@@ -3,9 +3,6 @@
 </h1>
 
 
-<br>
-
-
 ## 💻 Projeto
 
 Ecommerce criado utilizando apenas HTML,CSS e JS, tambem foi utilizado o SimpleStore, com checkout do PayPal
