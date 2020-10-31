@@ -1,0 +1,31 @@
+{
+	"products" : [
+		{
+			"name" : "Camiseta SABBATH",
+			"price" : "0.5",
+			"options" : [
+				{ "Size" : "SABBATH P,SABBATH M,SABBATH G,SABBATH GG" }
+			],
+			"image" : "images/camisa 1.jpg",
+			"description" : "Camiseta em malha 100% algodão, estampada no tecido por serigrafia, com toque aveludado e tecido encorpado. Possui mangas curtas e gola careca."
+		},
+		{
+			"name" : "Camiseta GOD BLESS AMERICA",
+			"price" : "0.5",
+			"options" : [
+				{ "Size" : "GOD BLESS AMERICA P,GOD BLESS AMERICA M,GOD BLESS AMERICA G,GOD BLESS AMERICA GG" }
+			],
+			"image" : "images/camisa 2.jpg",
+			"description" : "Camiseta em malha 100% algodão, estampada no tecido por serigrafia, com toque aveludado e tecido encorpado. Possui mangas curtas e gola careca."
+		},
+		{
+			"name" : "Camiseta RENEGADE",
+			"price" : "0.5",
+			"options" : [
+				{ "Size" : "RENEGADE P,RENEGADE M,RENEGADE G,RENEGADE GG" }
+			],
+			"image" : "images/camisa 3.jpg",
+			"description" : "Camiseta em malha 100% algodão, estampada no tecido por serigrafia, com toque aveludado e tecido encorpado. Possui mangas curtas e gola careca."
+		}
+	]
+}

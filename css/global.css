@@ -1,0 +1,16 @@
+@font-face {
+    font-family: light;
+    src: url(../fonts/futura\ light\ bt.ttf);
+  }
+
+@font-face {
+    font-family: negrito;
+    src: url(../fonts/Futura\ Bold\ font.ttf);
+}
+
+body {
+    font-family: light;
+}
+h1, h2, h3, h4 {
+    font-family: negrito;
+}
