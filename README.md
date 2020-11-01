@@ -1,6 +1,10 @@
 <h1 align="center">
     Ecommerce Caim Brand
 </h1>
+
+<p align="center">
+  <img alt="Happy" src=".github/home.png" width="100%">
+</p>
    
 <p align="center">
   <a href="http://caimbrand.epizy.com/index.html" align="center">Ir para a loja</a>
