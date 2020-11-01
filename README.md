@@ -1,9 +1,11 @@
 <h1 align="center">
     Ecommerce Caim Brand
 </h1>
-<a href="http://caimbrand.epizy.com/index.html" align="center">
-    Ir para a loja
-</a>
+   
+<p align="center">
+  <a href="http://caimbrand.epizy.com/index.html" align="center">Ir para a loja</a>
+</p>
+
 
 
 ## 💻 Projeto
