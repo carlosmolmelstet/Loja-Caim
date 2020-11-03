@@ -1,3 +1,14 @@
 .simpleStore_cart_container {
     text-transform: uppercase !important;
 }
+
+.btnwpp {
+    color:#34af23;
+    font-weight: bold;
+}
+.btnwpp:hover {
+    color:#34af23;
+    font-weight: bold;
+    text-decoration: none;
+    cursor: pointer;
+}
